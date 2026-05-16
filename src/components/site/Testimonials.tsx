@@ -3,19 +3,19 @@ import { Star } from "lucide-react";
 const testimonials = [
   {
     name: "Naledi Tshingana",
-    role: "Owner, Restaurant",
+    role: "Owner, ThabosKicks",
     avatar: "NT",
     text: "Botify360 built us an e-commerce bot that doubled our weekend sales. Customers love the instant replies.",
   },
   {
     name: "Tebello Tsoeu",
-    role: "Founder, Barbershop",
+    role: "Founder, Glow Salon",
     avatar: "TT",
     text: "I no longer miss bookings at night. The booking bot pays for itself every single week.",
   },
   {
     name: "Anam Skweyiya",
-    role: "Operations, Sneakershop",
+    role: "Operations, FreshMart",
     avatar: "AS",
     text: "Setup was fast, the team is responsive, and the bot handles 80% of our support questions.",
   },
